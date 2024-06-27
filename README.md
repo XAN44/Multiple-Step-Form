@@ -15,4 +15,4 @@
 <img src='https://i.gifer.com/origin/44/444132b1fdd23e1c31cd6587c3ab765c_w200.gif'/>
 </p>
 
-<h1> ขอบพระคุณอย่างยิ่ง </h1>
+<h1 align='center'> ขอบพระคุณอย่างยิ่ง </h1>
